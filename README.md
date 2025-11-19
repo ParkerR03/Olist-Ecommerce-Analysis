@@ -1,10 +1,4 @@
-# analytics-portfolio
-
-Each Folder will contain a full project in areas such as Data Science, Data Analytics, Financial Analytics, and Business Analytics
-
-
-
-## E-Commerce Analysis Summary (Data Analytics + Business Analytics Focused)
+# E-Commerce Analysis Summary (Data Analytics + Business Analytics Focused)
 
 This project analyzes the Brazilian Olist E-Commerce dataset to uncover patterns in customer purchasing behavior, sales trends, and product performance. Using SQL and Python, the analysis explores all 11 relational tables to extract actionable business insights.
 
